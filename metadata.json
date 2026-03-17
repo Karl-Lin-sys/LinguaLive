@@ -1,0 +1,5 @@
+{
+  "name": "LinguaLive",
+  "description": "A real-time conversational AI partner for language learning practice.",
+  "requestFramePermissions": ["microphone"]
+}
